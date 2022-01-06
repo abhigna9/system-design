@@ -1,0 +1,7 @@
+com\design\example\model\Bike.class
+com\design\example\model\Vehicle.class
+com\design\example\model\Bike$BikeBuilder.class
+com\design\example\model\Car.class
+com\design\example\service\ParkingService.class
+com\design\example\Application.class
+com\design\example\model\Car$CarBuilder.class
