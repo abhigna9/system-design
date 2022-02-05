@@ -3,4 +3,5 @@ Design of a parking lot. Effective suggestion of parking spots and usage of desi
 
 # TO-DO 
 1) Add Database
-2) Optimise existing search 
+2) Containerize
+3) Optimise existing search 
